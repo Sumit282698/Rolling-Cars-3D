@@ -15,8 +15,6 @@ An exciting 3D Android car game built completely from scratch using the open-sou
 | :---: | :---: | :---: |
 | <img src="YOUR_IMAGE_URL_HERE" width="250" alt="Main Menu"/> | <img src="YOUR_IMAGE_URL_HERE" width="250" alt="Gameplay"/> | <img src="YOUR_IMAGE_URL_HERE" width="250" alt="Controls"/> |
 
-> 💡 **Tip for adding screenshots:** Upload your images to an issue/discussions tab on GitHub, copy their URLs, and replace `YOUR_IMAGE_URL_HERE` in the table above to show a clean, side-by-side grid!
-
 ---
 
 ## 📥 Download & Install
